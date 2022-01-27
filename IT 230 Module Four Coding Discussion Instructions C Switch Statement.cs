@@ -33,7 +33,7 @@ namespace CSwitchStatement
 
         void WritePrompt()
         {
-            Console.WriteLine("Teacher's Copy");
+            Console.WriteLine("Dustins's Copy - 4-1 Coding Discussion: C# Switch Statement");
             Console.Write("Enter a number : ");
         }
 
